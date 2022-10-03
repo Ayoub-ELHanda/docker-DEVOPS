@@ -46,8 +46,8 @@ services:
       - db
   
 
-
        #docker-compose up
        #docker-compose up -d
        #docker-compose exec php bash
        #docker  
+       #localhost/controleur/fonction
